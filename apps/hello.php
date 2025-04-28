@@ -1,3 +1,3 @@
 <?php
-echo "Antony is the real goat..big";
+echo "Antony is the real goat";
 ?>
