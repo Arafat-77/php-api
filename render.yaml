@@ -1,0 +1,8 @@
+services:
+  - type: web
+    name: php-api
+    env: docker
+    plan: free
+    repo: https://github.com/Arafat-77/php-api
+    branch: main
+    dockerfilePath: ./Dockerfile
